@@ -28,7 +28,7 @@
 
 * The Images are generated from a stable-diffusion artificial intelligence model
 
-* Designed to integrate with the Python/Flask RESTful API that is in this repository: https://github.com/47Key/stable-diffusion_api-docker
+* Designed to integrate with the Python/Flask RESTful API
 
 * Built with Typescript, React, Tailwind & Next.js
 
